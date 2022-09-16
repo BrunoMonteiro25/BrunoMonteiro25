@@ -22,6 +22,8 @@
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/BrunoMonteiro25/BrunoMonteiro25/blob/output/github-contribution-grid-snake.svg)
-  
 </div>  
+
+<div>
+  ![Snake animation](https://github.com/BrunoMonteiro25/BrunoMonteiro25/blob/output/github-contribution-grid-snake.svg)
+</div>
