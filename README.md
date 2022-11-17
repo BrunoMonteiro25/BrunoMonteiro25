@@ -1,6 +1,6 @@
 ### Eu sou Bruno Monteiro, Desenvolvedor Front-end (ReactJS)
 
-👨‍💻 Estudando ReactJS e React Native
+👨‍💻 Estudando React e React Native
 
 ## 
 
