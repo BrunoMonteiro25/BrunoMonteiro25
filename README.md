@@ -1,4 +1,4 @@
-### Eu sou Bruno Monteiro, Desenvolvedor Full-Stack (ReactJS, NodeJS, MongoDB)
+### Eu sou Bruno Monteiro, Desenvolvedor Full-Stack
 
 👨‍💻 Estudando ReactJS, React Native, NodeJS e MongoDB
 
